@@ -6,4 +6,4 @@ Algorithms are implemente by myself following corresponding papers.
 
 The list of algorithms is: 
 
-LinRel, SupLinRel, LinUCB, SipLinUCB, LinTS, E-greedy, Giro, LinPhe, Phased Elimination, LSE, UCB-GLM, SupCB-GLM, SpectralEliminator
+LinRel, SupLinRel, LinUCB, SupLinUCB, LinTS, E-greedy, Giro, LinPhe, Phased Elimination, LSE, UCB-GLM, SupCB-GLM, SpectralEliminator
