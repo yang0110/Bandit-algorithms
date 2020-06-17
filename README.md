@@ -1,8 +1,8 @@
 # contextual_bandit_algorithms
 
-This folder contains existing linear bandit algorithm in literature. 
+This folder contains existing linear bandit algorithm in the literature. 
 
-Algorithms are inplemente by myself following corresponding paper. 
+Algorithms are implemente by myself following corresponding papers. 
 
 The list of algorithms is: 
 
